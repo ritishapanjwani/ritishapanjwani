@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ritisha Panjwani, a diligent individual currently pursuing a Bachelor of Technology degree in Computer Science . With a commendable academic record, I maintain a CGPA of 8.25. Proficient in Java programming and machine learning, I bring technical expertise to the table. Beyond academics, I am deeply passionate about volleyball, showcasing dedication and proficiency as a player.
+I am Ritisha Panjwani, a diligent individual currently pursuing a Bachelor of Technology degree in Computer Science . With a commendable academic record, I maintain a CGPA of 8.25. Proficient in Java programming, MEAN Stack and Machine Learning, I bring technical expertise to the table. Beyond academics, I am deeply passionate about volleyball, showcasing dedication and proficiency as a player.
 
 
 ## 🌐 Socials:
